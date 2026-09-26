@@ -1,33 +1,7 @@
 # Perspicacious Solutions — GitHub Pages landing site
 
 
-<!-- engineering-maturity:start -->
-## Engineering status
-
-**Estimated implementation completeness: 23% — engineering foundation.**  
-**Assessment confidence: medium.**
-
-This repository establishes the engineering foundation and initial working components for the project. The current code demonstrates the intended architecture, while most functional completion remains ahead.
-
-**What is already significant:** a real multi-module implementation rather than a presentation-only repository.
-
-**Remaining engineering work:** add automated verification around the principal execution paths; complete CI automation; strengthen technical and operational documentation; make licensing explicit.
-
-**Production readiness:** Production readiness is not claimed. The repository's value is the implemented architecture, working components and demonstrated engineering approach, with further verification and hardening still required.
-
-| Evidence area | Remote repository evidence |
-| --- | --- |
-| Implementation | 7 source files; approximately 42 KiB of source code |
-| Verification | 0 test files; approximately 0 KiB of test code |
-| Automation | 0 GitHub Actions workflow(s) |
-| Build/configuration | 0 build/dependency manifest(s); 0 configuration file(s) |
-| Deployment | 0 deployment/runtime packaging asset(s) |
-| Documentation/examples | 1 documentation file(s); 0 example/demo file(s) |
-| Remote code inspection | 7 evidence-rich files read; 0 TODO/FIXME marker(s); 0 explicit unfinished marker(s) |
-
-
-<sub>Engineering estimate refreshed 2026-09-25 from GitHub repository metadata and remotely read source/test/configuration files. It is an evidence-based maturity estimate, not a claim that every runtime path has been independently executed or externally certified.</sub>
-<!-- engineering-maturity:end -->
+**Repository status:** Published static GitHub Pages business landing site for Perspicacious Solutions Pty Ltd and RealtyPrompt Pro. The site is intentionally lightweight; commercial copy and legal pages remain subject to final review before wider promotion.
 
 Static pre-release landing site for Perspicacious Solutions Pty Ltd and RealtyPrompt Pro.
 
